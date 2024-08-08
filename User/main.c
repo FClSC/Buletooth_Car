@@ -25,7 +25,7 @@ double Speed=0;
 
 
 
-int main(void)
+int main(void) 
 {
     OLED_Init();
     LED_Init();
