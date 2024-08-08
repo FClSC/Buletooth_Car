@@ -16,7 +16,7 @@ uint8_t RxSTA = 1;
 char RxData[100] = "None";
 char LastRxData[100] = "None"; 
 
-int is_utf8_chinese(const char *str);
+int is_utf8_chinese(const char *str) ;
 
 float Lo=0;//当前纬度
 float La=0;//当前经度
