@@ -1,3 +1,20 @@
-# Buletooth_Car
-Based on STM32 and TB6612
-我勒个扫杠啊
+# 基于STM32的蓝牙小车
+
+我们应该如何完成这个项目呢？
+1.使用keil5
+2.画出相应的pcb文件
+
+在我眼中你是谁？
+-
+- 你是我的，我是你的谁？
+- 多看一眼就会爆炸？
+
+这是一段c++的代码块
+```c++
+#inlcude<stdio.h>
+int main()
+{
+
+    return 0;
+}
+```
